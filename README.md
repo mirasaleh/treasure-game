@@ -1,5 +1,5 @@
 # Python Treasure Hunt Game
-Python Multiplayer treasure hunt game. # treasure-game
+Python Multiplayer treasure hunt game. 
 Python Multiplayer treasure hunt game.<br>
 This is a simple game created using processing 3. <br>
 
@@ -9,7 +9,6 @@ This is a Python game created using the Processing library for the final course 
 
 ## Features:
 
-* Free and Open Source
 * User Friendly
 * No internet connection required
 * Multiplier
