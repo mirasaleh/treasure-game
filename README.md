@@ -17,4 +17,4 @@ This is a Python game created using the Processing library for the final course 
 * Features boost ups
 
 ## Screenshots:
-<img src="Screenshots/treasureHunt1.jpg" alt="drawing" width="200"/>
+
