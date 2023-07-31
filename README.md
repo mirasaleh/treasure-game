@@ -28,3 +28,5 @@ This is a Python game created using the Processing library for the final course 
 3. Extract the folder.
 4. Open the ```TreasureHuntGame.pyde``` file.
 5. Run it :)
+
+Otherwise, the repository also contains executable files for macos and windows. Enjoy!
