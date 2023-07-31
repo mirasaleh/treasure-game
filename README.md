@@ -17,5 +17,5 @@ This is a Python game created using the Processing library for the final course 
 * Features boost ups
 
 ## Screenshots:
-<img width="700" alt="treasureHunt1" src="https://github.com/mirasaleh/treasure-game/assets/124134319/a5af3287-9d9d-4d30-bdbc-8e1008a24271">
-<img width="700" alt="TreasureHunt2" src="https://github.com/mirasaleh/treasure-game/assets/124134319/8c5b9601-c2fe-4cb5-bb12-8574f0aaf153">
+<img width="200" alt="treasureHunt1" src="https://github.com/mirasaleh/treasure-game/assets/124134319/a5af3287-9d9d-4d30-bdbc-8e1008a24271">
+<img width="200" alt="TreasureHunt2" src="https://github.com/mirasaleh/treasure-game/assets/124134319/8c5b9601-c2fe-4cb5-bb12-8574f0aaf153">
