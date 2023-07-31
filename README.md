@@ -13,7 +13,7 @@ This is a Python game created using the Processing library for the final course 
 * No internet connection required
 * Multiplier
 * Tracks players scores
-* Features boost ups
+* Features power ups
 
 ## Screenshots:
 <img width="400" alt="treasureHunt1" src="https://github.com/mirasaleh/treasure-game/assets/124134319/a5af3287-9d9d-4d30-bdbc-8e1008a24271">
